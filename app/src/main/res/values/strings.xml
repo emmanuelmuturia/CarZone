@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CarZone</string>
+
+    <string name="ferrari">Ferrari</string>
+    <string name="bugatti">Bugatti</string>
+    <string name="koenigsegg">Koenigsegg</string>
+    <string name="mclaren">McLaren</string>
+    <string name="pagani">Pagani</string>
+    <string name="porsche">Porsche</string>
+    <string name="mercedes">Mercedes</string>
+
+    <string name="la_ferrari">La Ferrari</string>
+    <string name="veyron">Veyron</string>
+    <string name="agera_r">Agera R</string>
+    <string name="p1">P1</string>
+    <string name="huayra">Huayra</string>
+    <string name="turbo_s">Turbo S</string>
+    <string name="roadster">Roadster</string>
+
+    <string name="ferrari_speed">352 km/h</string>
+    <string name="bugatti_speed">410 km/h</string>
+    <string name="koenigsegg_speed">400 km/h</string>
+    <string name="mclaren_speed">350 km/h</string>
+    <string name="pagani_speed">383 km/h</string>
+    <string name="porsche_speed">328 km/h</string>
+    <string name="mercedes_speed">302 km/h</string>
+
+
+</resources>
